@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<translate
+    android:fromYDelta="73"
+    android:toYDelta="43"
+    android:duration="500"
+    xmlns:app="http://schemas.android.com/apk/res-auto"/>
+</set>

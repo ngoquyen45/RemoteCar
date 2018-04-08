@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuSu</string>
+    <string name="todo">TODO</string>
+    <string name="speed">Speed</string>
+</resources>
